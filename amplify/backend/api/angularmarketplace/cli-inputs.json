@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "angularmarketplace",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\_ionic-enterprise-apps\\angular-marketplace\\angular-marketplace-final\\amplify\\backend\\api\\angularmarketplace\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}

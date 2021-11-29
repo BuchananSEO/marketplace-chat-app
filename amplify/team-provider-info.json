@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-angularmarketplace-dev-22424-authRole",
+      "UnauthRoleArn": "arn:aws:iam::915314160974:role/amplify-angularmarketplace-dev-22424-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::915314160974:role/amplify-angularmarketplace-dev-22424-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-angularmarketplace-dev-22424-deployment",
+      "UnauthRoleName": "amplify-angularmarketplace-dev-22424-unauthRole",
+      "StackName": "amplify-angularmarketplace-dev-22424",
+      "StackId": "arn:aws:cloudformation:us-east-1:915314160974:stack/amplify-angularmarketplace-dev-22424/62d657f0-50e5-11ec-a4f7-12c62a3ba0a7",
+      "AmplifyAppId": "d39efy7lo3m55g"
+    }
+  }
+}
